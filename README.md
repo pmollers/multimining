@@ -1,1 +1,1 @@
-Reed [Wiki](https://github.com/foxer666/multimining/wiki) page
+Read [Wiki](https://github.com/foxer666/multimining/wiki) page
